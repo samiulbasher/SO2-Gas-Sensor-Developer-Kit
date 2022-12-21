@@ -1,1 +1,1 @@
-# SO2-Gas-Sensor-Developer-Kit
+# SO2-Gas-Sensor-DevelopmentKit
