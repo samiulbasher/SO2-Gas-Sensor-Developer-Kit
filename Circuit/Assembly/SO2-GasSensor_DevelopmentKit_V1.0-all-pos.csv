@@ -1,0 +1,50 @@
+Designator,Value,Footprint,Mid X,Mid Y,Rotation,Layer
+BZ1,Buzzer,Buzzer_12x9.5RM7.6,40.45,-108.5,0,top
+C1,47uF 35V,C_Radial_D5.0mm_H11.0mm_P2.00mm,30.7,-142.2,-90,top
+C2,100nF,C_0805_2012Metric,35.2,-143.2,-90,top
+C3,47uF 35V,C_Radial_D5.0mm_H11.0mm_P2.00mm,30.7,-158.1,-90,top
+C4,100nF,C_0805_2012Metric,35.2,-159.2,-90,top
+C5,10nF,C_0805_2012Metric,37.2,-159.2,-90,top
+C6,100nF,C_0402_1005Metric,66.5,-147.15,0,top
+C7,100nF,C_0402_1005Metric,53.02,-146.2,180,top
+C8,100nF,C_0402_1005Metric,53.02,-148.05,180,top
+C9,100nF,C_0402_1005Metric,66.5,-148.75,0,top
+C10,22pF,C_0805_2012Metric,46.7,-154.45,-90,top
+C11,22pF,C_0805_2012Metric,52.7,-154.45,90,top
+C12,10uF,C_0805_2012Metric,75.2,-133.4,-90,top
+C13,100nF,C_0805_2012Metric,81.75,-142.5,180,top
+C14,100nF,C_0805_2012Metric,81.75,-139.5,180,top
+C15,100nF,C_0805_2012Metric,81.75,-134.5,180,top
+C16,10nF,C_0805_2012Metric,81.75,-144.5,180,top
+C17,10nF,C_0805_2012Metric,81.75,-137.5,180,top
+C18,10nF,C_0805_2012Metric,81.75,-132.5,180,top
+D1,M7,D_SMA,31.6,-136.95,180,top
+D2,LED,LED_0805_2012Metric,34.1,-132.47,90,top
+D3,LED,LED_0805_2012Metric,73.2,-154.43,270,top
+D4,DBG_LED,LED_0805_2012Metric,71.1,-154.43,90,top
+F1,SF-1206F200,Fuse_1206_3216Metric,29.3,-132.45,90,top
+J1,EXP1,PinHeader_2x05_P2.54mm_Vertical,54.3,-163.4,-90,top
+J2,Power Input,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,39.75,-124.9,0,top
+J3,Thermitor 1,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,79.73,-124.9,0,top
+J4,FTDI,TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal,48.92,-124.9,0,top
+J5,SW,TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal,67.96,-124.9,0,top
+J6,AVR ISP,PinHeader_2x05_P2.54mm_Vertical,77.15,-163.41,-90,top
+J7,Alphasense SO2,TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal,88.25,-132.15,-90,top
+J8,DFRobot SO2,TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal,88.25,-150.685,-90,top
+J9,EXP1,PinHeader_2x05_P2.54mm_Vertical,67.84,-108.2,-90,top
+J10,LCD Connector,PinHeader_1x16_P2.54mm_Vertical,79.81,-97.5,-90,top
+Q1,MMBT2222A-TP,SOT-23-3,60.25,-102.5,180,top
+R1,10K,R_0805_2012Metric,32,-132.45,-90,top
+R2,4.7K,R_0805_2012Metric,75.2,-154.45,90,top
+R3,4.7K,R_0805_2012Metric,73.2,-133.4,90,top
+R4,100,R_0805_2012Metric,71.2,-133.4,-90,top
+R5,10K,R_0805_2012Metric,69.2,-133.4,90,top
+R6,1K,R_0805_2012Metric,69.1,-154.45,90,top
+R7,10K,R_0805_2012Metric,67.2,-133.4,90,top
+R8,1K,R_0805_2012Metric,65,-102.5,0,top
+R9,560,R_0805_2012Metric,39.25,-101,180,top
+RV1,10K,Potentiometer_Runtron_RM-063_Horizontal,82.25,-110.09,180,top
+S1,RESET,SW_SPST_TL3342,59.8,-135,0,top
+U1,NCP1117ST50T3G,SOT-223,31.4,-151.1,90,top
+U2,ATMEGA328-AU,TQFP-32_7x7mm_P0.8mm,59.8,-146.75,-90,top
+Y1,16MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,49.7,-154.45,-90,top
